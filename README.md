@@ -99,8 +99,6 @@ tools/
   make_paper_tables.py    the LaTeX tables of the paper, from results/*/test_results*.json
   seed_stats.py           confidence intervals, bootstrap and per-photograph tests, fixed-threshold F1
   make_paper_figures.py   the paper figures, from the saved results
-  make_comparison_figure.py  side-by-side predictions of chosen runs on chosen test images
-  aggregate_results.py    mean ± std over seeds for all runs (Markdown, CSV and LaTeX)
 ```
 
 ## Installation
